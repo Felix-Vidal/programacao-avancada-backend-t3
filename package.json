@@ -1,0 +1,13 @@
+{
+  "name": "programacao-avancada-backend-t3",
+  "version": "1.0.0",
+  "description": "Repositório da disciplina de Programação Avançada Back-end da 3ª turma do Web Academy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+  
+}
