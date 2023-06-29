@@ -1,4 +1,4 @@
-const userList = document.getElementById("userList");
+const userList = document.querySelector("ul#userList");
 
 fetch("http://jsonplaceholder.typicode.com/users")
   .then(resposta => {
